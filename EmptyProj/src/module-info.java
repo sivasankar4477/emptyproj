@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sss
+ *
+ */
+module EmptyProj {
+}
